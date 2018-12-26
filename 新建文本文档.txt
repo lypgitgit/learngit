@@ -1,2 +1,0 @@
-https://github.com/lypgitgit/myspringcloud.git
-git@github.com:lypgitgit/myspringcloud.git
